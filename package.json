@@ -1,0 +1,11 @@
+{
+  "name": "exercicios-logica-js",
+  "version": "1.0.0",
+  "description": "Exercícios de lógica e testes unitários - Qualidade de Software",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
